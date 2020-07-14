@@ -82,7 +82,7 @@ logo = """ ▄︻┻═┳一 ЩєLc๏Mє ┼๏ ┼ђє Fąş┼єş┼ єVєr
 \033[1;96mAuthor  \033[1;93m: \033[1;92mBasir Shah
 \033[1;96mInstagram \033[1;93m: \033[1: itx_muskan_yr
 \033[1;96mFacebook  \033[1;93m: \033[1: Basir Shah
-\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/BasirShah007/Basir007
+\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/BasirShah007/Basir
 \033[1;91m======================================="""
 
 def tik():
@@ -123,7 +123,7 @@ print  """\033[1;91m
 \033[1;96mAuthor  \033[1;93m: \033[1;92mBasir Shah
 \033[1;96mInstagram \033[1;93m: \033[1;92mitx_muskan_yr
 \033[1;96mFacebook  \033[1;93m: \033[1;92m Basir Shah
-\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/BasirShah007/Basir007
+\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/BasirShah007/Basir
 \033[1;91m======================================="""
 print " \x1b[1;93m============================================================="
 
